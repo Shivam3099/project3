@@ -1,0 +1,10 @@
+127.0.0.1 - - [09/Nov/2022:13:10:16 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:13:10:17 +0530] "GET /project_3/index.jsp HTTP/1.1" 200 727
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:13:11:12 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3725
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:13:11:12 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:13:12:32 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7183
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:13:12:54 +0530] "POST /project_3/LoginCtl HTTP/1.1" 200 7423
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:13:13:05 +0530] "POST /project_3/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:13:13:05 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 9811
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:13:13:05 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [09/Nov/2022:13:14:45 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742

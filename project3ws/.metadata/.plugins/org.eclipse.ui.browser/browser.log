@@ -1,0 +1,49 @@
+
+Nov 07, 2022 16:10:22.28 NEW SESSION
+Nov 07, 2022 16:10:22.28 [10692:2012:1107/161022.284:ERROR:device_event_log_impl.cc(215)] [16:10:22.284] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 07, 2022 16:10:22.28 [10692:2012:1107/161022.285:ERROR:device_event_log_impl.cc(215)] [16:10:22.285] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 07, 2022 16:10:22.29 [10692:2012:1107/161022.298:ERROR:device_event_log_impl.cc(215)] [16:10:22.298] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Nov 07, 2022 16:11:19.90 [10692:15972:1107/161119.906:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Nov 08, 2022 12:54:41.55 NEW SESSION
+Nov 08, 2022 12:54:41.55 [6536:12984:1108/125441.551:ERROR:device_event_log_impl.cc(215)] [12:54:41.550] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 08, 2022 12:54:41.55 [6536:12984:1108/125441.551:ERROR:device_event_log_impl.cc(215)] [12:54:41.550] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 08, 2022 12:54:41.55 [6536:12984:1108/125441.557:ERROR:device_event_log_impl.cc(215)] [12:54:41.556] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Nov 08, 2022 12:55:39.01 [6536:3756:1108/125539.017:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 08, 2022 13:20:14.28 [11676:3816:1108/132014.280:ERROR:device_event_log_impl.cc(215)] [13:20:14.280] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 08, 2022 13:20:14.28 [11676:3816:1108/132014.280:ERROR:device_event_log_impl.cc(215)] [13:20:14.280] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 08, 2022 13:20:14.28 [11676:3816:1108/132014.285:ERROR:device_event_log_impl.cc(215)] [13:20:14.285] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+Nov 08, 2022 13:21:10.87 [11676:4912:1108/132110.873:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 08, 2022 13:46:49.86 [11676:10744:1108/134649.866:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 13:47:19.15 [11676:10744:1108/134719.157:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 13:51:22.80 [11676:10744:1108/135122.804:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 13:51:57.81 [11676:10744:1108/135157.813:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 08, 2022 13:52:01.45 [11676:10744:1108/135201.451:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 08, 2022 13:52:07.64 [11676:10744:1108/135207.642:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 13:53:54.00 [11676:10744:1108/135354.000:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 13:54:21.60 [11676:10744:1108/135421.602:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 20:55:29.94 [11676:10744:1108/205529.940:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 20:55:29.97 [11676:11120:1108/205529.965:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 08, 2022 20:55:30.30 [11676:12708:1108/205530.309:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 08, 2022 20:55:32.87 [11676:3816:1108/205532.875:ERROR:device_event_log_impl.cc(215)] [20:55:32.875] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 08, 2022 20:55:56.94 [11676:10744:1108/205556.948:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 20:56:03.10 [11676:3816:1108/205603.104:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Nov 08, 2022 20:56:03.98 [11676:3816:1108/205603.982:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Nov 08, 2022 20:56:14.97 [11676:15300:1108/205614.972:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 08, 2022 20:56:48.83 [11676:10744:1108/205648.837:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 20:57:22.48 [11676:14856:1108/205722.483:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 08, 2022 20:58:29.26 [11676:10744:1108/205829.263:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 20:59:03.74 [11676:15300:1108/205903.747:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 08, 2022 21:01:35.63 [11676:14856:1108/210135.637:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 08, 2022 21:01:49.29 [11676:10744:1108/210149.289:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 21:05:03.88 [11676:10744:1108/210503.881:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 08, 2022 21:36:46.23 [11676:10744:1108/213646.232:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 21:37:15.83 [11676:10744:1108/213715.832:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 21:53:50.54 [11676:10744:1108/215350.547:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 21:54:14.35 [11676:10744:1108/215414.353:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 21:54:17.75 [11676:10744:1108/215417.758:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 08, 2022 22:59:37.07 [11676:10744:1108/225937.075:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 23:00:00.89 [11676:10744:1108/230000.897:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 23:00:48.04 [11676:10744:1108/230048.045:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 23:02:30.70 [11676:10744:1108/230230.705:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 08, 2022 23:05:16.86 [11676:10744:1108/230516.859:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
